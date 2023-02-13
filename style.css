@@ -1,0 +1,11 @@
+.ss{
+    border: 1px solid black;
+    width:min-content;
+    padding: :10px;
+}
+.btn{
+    border: 2px;
+    padding: 10px;
+    text-align: center;
+    color:aqua;
+}
